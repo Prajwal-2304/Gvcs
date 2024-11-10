@@ -1,0 +1,2 @@
+import libgvcs
+libgvcs.main()
